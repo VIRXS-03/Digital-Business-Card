@@ -1,6 +1,3 @@
-html{
-    background-color: #1A1B21;
-}
 body{
     background-color:#1A1B21;
     margin: 0 auto;
@@ -100,9 +97,7 @@ body{
 .light-mode{
     background-color: #F5F5F5;
     color: white;
-    html{
-        background-color: #F5F5F5;
-    }
+    
     .Intro h3{
         color: #2B283A;
     }
