@@ -95,8 +95,10 @@ html{
     align-content: end;
 }
 .light-mode{
-    background-color: #F5F5F5;
-    color: white;
+    html{
+        background-color: #F5F5F5;
+        color: white;
+    }
     .Intro h3{
         color: #2B283A;
     }
